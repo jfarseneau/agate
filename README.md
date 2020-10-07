@@ -20,7 +20,7 @@ docker run --name agate \
   -p 1965:1965 \
   --mount type=bind,source=/path/to/your/content,target=/var/agate/content \
   --mount type=bind,source=/path/to/your/keys,target=/var/agate/keys \
-  agate
+  thejf/agate
 ```
 
 ### Generate a self-signed certificate
