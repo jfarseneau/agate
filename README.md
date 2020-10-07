@@ -1,5 +1,5 @@
 ## Quick reference
-Maintained by: [Jean-Francois Arseneau](https://github.com/mbrubeck/agate)
+Maintained by: [Jean-Francois Arseneau](https://github.com/TheJF/agate)
 
 Where to get help: [the Docker Community Forums](https://forums.docker.com/), [the Docker Community Slack](https://dockr.ly/slack), or [Stack Overflow](https://stackoverflow.com/search?tab=newest&q=docker)
 
